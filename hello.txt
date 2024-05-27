@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Hello dog
-=======
 Hello cat
->>>>>>> conflict-2
